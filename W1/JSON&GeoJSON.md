@@ -333,7 +333,7 @@ Basic Usage:
           	]
       	]
      }
-      #
+      '''
       [
           [
               [
@@ -346,7 +346,7 @@ Basic Usage:
               ]
           ]
       ]
-  
+  	'''
       
       #type 3 MultiPolygon with hole
       {
@@ -374,7 +374,7 @@ Basic Usage:
           	]
       	]
       }
-      #
+      '''
       [
           [
               [
@@ -385,7 +385,7 @@ Basic Usage:
               ]
           ]
       ]
-      
+      '''
       
       
   # Geometry Object: GeometryCollection
