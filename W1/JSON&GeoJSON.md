@@ -346,7 +346,7 @@ Basic Usage:
               ]
           ]
       ]
-  	   '''
+      '''
       
       #type 3 MultiPolygon with hole
       {
